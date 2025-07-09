@@ -141,6 +141,16 @@ python3 911_analysis.py
 
 <hr>
 
+<h2>🙌 About Me</h2>
+
+<p>
+👤 <strong>Safwan Khan Kasi</strong><br>
+📍 <em>NUST | ML & DS Enthusiast</em><br>
+🌐 <a href="https://www.linkedin.com/in/safwan-kasi-2b5358292/">LinkedIn</a> | <a href="https://github.com/safikasi">GitHub</a>
+</p>
+
+<hr>
+
 <h2>📜 Dataset Credit</h2>
 
 <p>Dataset by <a href="https://www.kaggle.com/mchirico">Mike Chirico</a> on Kaggle.</p>
